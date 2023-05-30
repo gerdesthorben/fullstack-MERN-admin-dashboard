@@ -150,7 +150,7 @@ const Dashboard = () => {
           sx={{
             "& .MuiDataGrid-root": {
               border: "none",
-              borderRadius: "5rem",
+              borderRadius: "0.55rem",
             },
             "& .MuiDataGrid-cell": {
               borderBottom: "none",
